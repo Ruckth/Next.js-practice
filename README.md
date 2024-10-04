@@ -1,2 +1,2 @@
-# rugby
-This project is me testing nuxt 3 out
+# Practice Next
+This project is me testing next.js out
